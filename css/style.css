@@ -239,7 +239,7 @@ a {
 .about_section{
 	width: 100%;
 	float: left;
-	background-image: url(../images/Sushi\ 3.jpg);
+	background-image: url(../images/sushi\ 3.jpg);
 	height: auto;
 	background-size: 100%;
 	background-repeat: no-repeat;
@@ -273,7 +273,7 @@ a {
 
 .magna_text {
     font-size: 20pt;
-    color: #060401;
+    color: white;
     text-align: right;
     line-height: 40px;
     width: 45%;
